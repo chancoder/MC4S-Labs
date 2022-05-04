@@ -1,6 +1,8 @@
 # Build an Azure Data Factory Pipeline to copy data from MC4S
 In this lab, we will create an ADF pipeline that will connect to your dataverse environment and will copy three columns of the Emissions table into a json file in a blob storage.
 
+<img src="/assets/ADF-AppRegistration1.png" />
+
 ## Prerequisites
 - An Azure Subscription linked to the same tenant where your Microsoft Cloud for Sustainability environment is deployed.
 
